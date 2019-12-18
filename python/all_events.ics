@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20190817T190000Z
+DTEND:20190817T235900Z
+SUMMARY:UFC 241 - Cormier vs. Miocic 2
+LOCATION: Honda Center\, Anaheim\, California\, United States
+URL:http://www.sherdog.com/events/UFC-241-Cormier-vs-Miocic-2-76383
+TRANSP:OPAQUE
+UID:82f9a730-1141-4054-af52-6c439e8da6cd@82f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191123T190000Z
+DTEND:20191123T235900Z
+SUMMARY:UFC Fight Night on ESPN+ - TBA
+LOCATION: TBA
+URL:http://www.sherdog.com/events/UFC-Fight-Night-on-ESPN43-TBA-76603
+TRANSP:OPAQUE
+UID:7b814cf5-b56d-4e3e-88db-387f3ae4e8d2@7b81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190928T190000Z
+DTEND:20190928T235900Z
+SUMMARY:UFC Fight Night 160 - Hermansson vs. Cannonier
+LOCATION: Royal Arena\, Copenhagen\, Denmark
+URL:http://www.sherdog.com/events/UFC-Fight-Night-160-Hermansson-vs-Cannonier-76589
+TRANSP:OPAQUE
+UID:a34bdc30-7122-4e49-abd1-f87f347e25b6@a34b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190803T190000Z
+DTEND:20190803T235900Z
+SUMMARY:UFC on ESPN 5 - Covington vs. Lawler
+LOCATION: Prudential Center\, Newark\, New Jersey\, United States
+URL:http://www.sherdog.com/events/UFC-on-ESPN-5-Covington-vs-Lawler-76579
+TRANSP:OPAQUE
+UID:ff6c4544-01b5-4622-b01d-2b78c6abac70@ff6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190824T190000Z
+DTEND:20190824T235900Z
+SUMMARY:Bellator 225 - Mitrione vs. Kharitonov 2
+LOCATION: Webster Bank Arena\, Bridgeport\, Connecticut\, United States
+URL:http://www.sherdog.com/events/Bellator-225-Mitrione-vs-Kharitonov-2-78553
+TRANSP:OPAQUE
+UID:d078b36d-75b8-41ce-8bd4-602920bb065a@d078.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190907T190000Z
+DTEND:20190907T235900Z
+SUMMARY:Bellator 226 - Bader vs. Kongo
+LOCATION: SAP Center\, San Jose\, California\, United States
+URL:http://www.sherdog.com/events/Bellator-226-Bader-vs-Kongo-78611
+TRANSP:OPAQUE
+UID:e3442299-f1b0-44b7-8b56-4d7964546f0c@e344.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190921T190000Z
+DTEND:20190921T235900Z
+SUMMARY:UFC Fight Night 159 - TBA
+LOCATION: Mexico City Arena\, Mexico City\, Mexico
+URL:http://www.sherdog.com/events/UFC-Fight-Night-159-TBA-76587
+TRANSP:OPAQUE
+UID:353efeaa-0f35-486d-9d2f-b3ebc47b772d@353e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191026T190000Z
+DTEND:20191026T235900Z
+SUMMARY:UFC Fight Night 162 - TBA
+LOCATION: Singapore Indoor Stadium\, Kallang\, Singapore
+URL:http://www.sherdog.com/events/UFC-Fight-Night-162-TBA-76597
+TRANSP:OPAQUE
+UID:1c25eb9b-085f-4d98-95af-dc2752e6e217@1c25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190928T190000Z
+DTEND:20190928T235900Z
+SUMMARY:Bellator 228 - Pitbull vs. Archuleta
+LOCATION: The Forum\, Inglewood\, California\, United States
+URL:http://www.sherdog.com/events/Bellator-228-Pitbull-vs-Archuleta-78613
+TRANSP:OPAQUE
+UID:88f8ec5e-355e-41f1-8678-b7e5a8e5ede3@88f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190831T190000Z
+DTEND:20190831T235900Z
+SUMMARY:UFC Fight Night 157 - Andrade vs. Zhang
+LOCATION: Shenzhen Universiade Sports Centre\, Shenzhen\, Guangdong\, China
+URL:http://www.sherdog.com/events/UFC-Fight-Night-157-Andrade-vs-Zhang-76583
+TRANSP:OPAQUE
+UID:61386035-3a2a-405a-872f-347085448226@6138.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191102T190000Z
+DTEND:20191102T235900Z
+SUMMARY:UFC 244 - TBA
+LOCATION: Madison Square Garden\, New York\, New York\, United States
+URL:http://www.sherdog.com/events/UFC-244-TBA-76599
+TRANSP:OPAQUE
+UID:3f4a38ec-cb4c-4b72-b7ef-d55990a58b5b@3f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190810T190000Z
+DTEND:20190810T235900Z
+SUMMARY:UFC Fight Night 156 - Shevchenko vs. Carmouche 2
+LOCATION: Antel Arena\, Montevideo\, Uruguay
+URL:http://www.sherdog.com/events/UFC-Fight-Night-156-Shevchenko-vs-Carmouche-2-76581
+TRANSP:OPAQUE
+UID:961b71dd-85b9-4da8-b862-6c74eca4fbbd@961b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191005T190000Z
+DTEND:20191005T235900Z
+SUMMARY:UFC 243 - Whittaker vs. Adesanya
+LOCATION: Docklands Stadium\, Melbourne\, Victoria\, Australia
+URL:http://www.sherdog.com/events/UFC-243-Whittaker-vs-Adesanya-76591
+TRANSP:OPAQUE
+UID:869a789c-e6fd-478c-ad6e-8aab4daf2bef@869a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190914T190000Z
+DTEND:20190914T235900Z
+SUMMARY:UFC Fight Night 158 - Cowboy vs. Gaethje
+LOCATION: Vancouver\, British Columbia\, Canada
+URL:http://www.sherdog.com/events/UFC-Fight-Night-158-Cowboy-vs-Gaethje-76585
+TRANSP:OPAQUE
+UID:8a0abacd-266c-4bf2-aa28-9292e58517f8@8a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191004T190000Z
+DTEND:20191004T235900Z
+SUMMARY:Bellator 229 - Koreshkov vs. Larkin
+LOCATION: Pechanga Resort & Casino\, Temecula\, California\, United States
+URL:http://www.sherdog.com/events/Bellator-229-Koreshkov-vs-Larkin-78615
+TRANSP:OPAQUE
+UID:f886c490-cddd-4f7d-88c1-a9b16482a4f9@f886.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191116T190000Z
+DTEND:20191116T235900Z
+SUMMARY:UFC Fight Night on ESPN+ - TBA
+LOCATION: TBA
+URL:http://www.sherdog.com/events/UFC-Fight-Night-on-ESPN43-TBA-76601
+TRANSP:OPAQUE
+UID:66c30011-19df-462a-b67e-a9c093b1e8a5@66c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191221T190000Z
+DTEND:20191221T235900Z
+SUMMARY:UFC Fight Night on ESPN+ - TBA
+LOCATION: TBA
+URL:http://www.sherdog.com/events/UFC-Fight-Night-on-ESPN43-TBA-76609
+TRANSP:OPAQUE
+UID:e96b5f0e-fd32-4765-a80c-3d3c55df51af@e96b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190907T190000Z
+DTEND:20190907T235900Z
+SUMMARY:UFC 242 - Khabib vs. Poirier
+LOCATION: TBA\, Abu Dhabi\, United Arab Emirates
+URL:http://www.sherdog.com/events/UFC-242-Khabib-vs-Poirier-76401
+TRANSP:OPAQUE
+UID:e1d28d54-d4a4-4e6f-961c-56ec05abc264@e1d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T190000Z
+DTEND:20191018T235900Z
+SUMMARY:UFC Fight Night on ESPN 6 - TBA
+LOCATION: TD Garden\, Boston\, Massachusetts\, United States
+URL:http://www.sherdog.com/events/UFC-Fight-Night-on-ESPN-6-TBA-76595
+TRANSP:OPAQUE
+UID:669eeb87-2fc5-482b-bf27-b71f8f6f9ecb@669e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191207T190000Z
+DTEND:20191207T235900Z
+SUMMARY:UFC Fight Night on ESPN - TBA
+LOCATION: TBA
+URL:http://www.sherdog.com/events/UFC-Fight-Night-on-ESPN-TBA-76605
+TRANSP:OPAQUE
+UID:ea201e7b-fac3-4373-9c97-d6b3e3c4a036@ea20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190727T190000Z
+DTEND:20190727T235900Z
+SUMMARY:UFC 240 - Holloway vs. Edgar
+LOCATION: Rogers Place\, Edmonton\, Alberta\, Canada
+URL:http://www.sherdog.com/events/UFC-240-Holloway-vs-Edgar-76577
+TRANSP:OPAQUE
+UID:53f8df4c-242a-4502-ac7f-d7b8e2d8a193@53f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191214T190000Z
+DTEND:20191214T235900Z
+SUMMARY:UFC 245 - TBA
+LOCATION: TBA
+URL:http://www.sherdog.com/events/UFC-245-TBA-76607
+TRANSP:OPAQUE
+UID:3da03e00-5911-4f4a-ba74-808d2f6956d1@3da0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191012T190000Z
+DTEND:20191012T235900Z
+SUMMARY:Bellator 230 - Bellator Milan
+LOCATION: Allianz Cloud\, Milan\, Italy
+URL:http://www.sherdog.com/events/Bellator-230-Bellator-Milan-78117
+TRANSP:OPAQUE
+UID:2755720a-a944-41e5-8ed1-cd16edf97b7f@2755.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190927T190000Z
+DTEND:20190927T235900Z
+SUMMARY:Bellator 227 - Bellator Dublin
+LOCATION: 3Arena\, Dublin\, Ireland
+URL:http://www.sherdog.com/events/Bellator-227-Bellator-Dublin-78237
+TRANSP:OPAQUE
+UID:199efc85-ec2d-4b38-a0eb-673fa2494071@199e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191012T190000Z
+DTEND:20191012T235900Z
+SUMMARY:UFC Fight Night 161 - Jedrzejczyk vs. Waterson
+LOCATION: Chase Center Location: San Francisco\, California\, United States
+URL:http://www.sherdog.com/events/UFC-Fight-Night-161-Jedrzejczyk-vs-Waterson-76593
+TRANSP:OPAQUE
+UID:99e520ba-7f07-485d-b22d-a9cbe5a7d71b@99e5.org
+END:VEVENT
+END:VCALENDAR
